@@ -70,7 +70,7 @@ export default function RootLayout({
                 </a>
                 <a
                   className="transition-all hover:text-orange-600 dark:hover:text-orange-500"
-                  href="https://github.com/gentiksolm"
+                  href="https://github.com/0ximjosh"
                 >
                   <GithubIcon />
                 </a>
