@@ -6,6 +6,10 @@ I've been meaning to start keeping track of things I either want to read later,
 or read and found super useful. Think of this as my reading list of articles
 instead of books.
 
+## Golang
+
+- https://peter.bourgon.org/go-in-production/
+
 ## Hardware
 
 - https://bitsnpieces.dev/posts/a-synth-for-my-daughter/
