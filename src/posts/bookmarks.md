@@ -19,6 +19,10 @@ instead of books.
 - https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/
 - https://david.coffee/cloudflare-zero-trust-tunnels
 
+## Stuff i need to read but havent yet
+
+- https://venam.net/blog/unix/2025/11/27/input_devices_linux.html
+
 ## Other reading lists
 
 - https://felipe.rs/2017/12/30/papers-ive-read-in-2017/
