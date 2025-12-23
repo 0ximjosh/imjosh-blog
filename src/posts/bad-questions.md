@@ -37,13 +37,13 @@ can give. What are your inputs to the query? What errors are you getting back? W
 > I tried jump-starting the car, but that didn't work
 
 Tell us what you have tried! What worked, what didn't work, and why? What were the results of your tests and
-attempts to solving the issue yourself? If you don't haven't tried anything, why are you asking the question in the
+attempts to solving the issue yourself? If you haven't tried anything, why are you asking the question in the
 first place? Before you ask, make sure you have exhausted all your other options. If it seems that your too lazy to debug
 the issue yourself, why would other people try and help you?
 
 > Well, how do I fix it?
 
-If you do all of the above, you will often find that you will find the answer during the process of preparing to ask the
+If you do all of the above, you will often find the answer during the process of preparing to ask the
 question itself. Asking a proper question should take time, and you should put effort into your questions.
 The more effort you put into your questions, the more people will be receptive to helping you answer them.
 
