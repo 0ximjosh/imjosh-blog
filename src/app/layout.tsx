@@ -7,7 +7,6 @@ import ToggleTheme from "./ToggleTheme";
 import Image from "next/image";
 import Link from "next/link";
 import { GithubIcon, LinkedinIcon, MailIcon } from "lucide-react";
-import Subscribe from "./_components/Subscribe";
 import { Toaster } from "sonner";
 import { ThemeProvider } from "next-themes";
 
@@ -54,6 +53,12 @@ export default function RootLayout({
               >
                 Blog
               </Link>
+              <Link
+                className="text-lg font-medium hover:underline dark:text-white"
+                href="/logs"
+              >
+                Logs
+              </Link>
             </div>
             <ToggleTheme />
           </div>
@@ -81,10 +86,6 @@ export default function RootLayout({
                   <LinkedinIcon />
                 </a>
               </div>
-            </div>
-            <div>
-              <h3>Subscribe to the Blog</h3>
-              <Subscribe />
             </div>
           </div>
           <Toaster richColors={true} />

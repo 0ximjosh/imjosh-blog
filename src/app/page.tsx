@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Page() {
   return (
     <div className="prose dark:prose-invert">
@@ -19,6 +21,10 @@ export default function Page() {
           <a href="https://sybil.com/">Sybil</a>, and designing{" "}
           <a href="https://epistula.sybil.com/">the Epistula Protocol</a>.
         </p>
+        <p>
+          Take a peek at my <Link href="/logs">logs</Link> if you want a view
+          into my day to day.
+        </p>
         <h3>Past Work</h3>
         <p>
           From mid 2022 to early 2024 I was proudly the CTO at{" "}
@@ -28,10 +34,9 @@ export default function Page() {
           <a href="https://submissions.biblish.com">Submissions</a>.
         </p>
         <p>
-          In 2023 I formed my own LLC called{" "}
-          <a href="https://brunuslabs.com">Brunus Labs</a> to take on contract
+          In 2023 I formed my own LLC called Brunus Labs to take on contract
           work. During my time at Brunus we built internal time tracking
-          applications, lightweight POS systems, discord bots, Marketing sites
+          applications, lightweight POS systems, discord bots, marketing sites
           and more.
         </p>
         <p>
