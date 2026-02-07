@@ -21,10 +21,6 @@ export default function Page() {
           <a href="https://sybil.com/">Sybil</a>, and designing{" "}
           <a href="https://epistula.sybil.com/">the Epistula Protocol</a>.
         </p>
-        <p>
-          Take a peek at my <Link href="/logs">logs</Link> if you want a view
-          into my day to day.
-        </p>
         <h3>Past Work</h3>
         <p>
           From mid 2022 to early 2024 I was proudly the CTO at{" "}

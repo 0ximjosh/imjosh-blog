@@ -58,12 +58,6 @@ export default function RootLayout({
                 >
                   Blog
                 </Link>
-                <Link
-                  className="text-lg font-medium hover:underline dark:text-white"
-                  href="/logs"
-                >
-                  Logs
-                </Link>
               </div>
               <ToggleTheme />
             </div>
