@@ -8,20 +8,26 @@ export default function Page() {
       </h1>
       <div className="max-w-2xl">
         <p>
-          I{"'"}m a software engineer based out of Austin TX, currently CTO at{" "}
-          <a href="https://manifold.inc" className="hover:underline">
-            Manifold Labs
-          </a>
-          . We are building a compute market with an un-interruptible experience
-          at a interruptible price, along with some other cool projects when we
-          are inspired. Some of the projects I{"'"}ve worked on at manifold
-          include <a href="https://github.com/manifold-inc/targon">Subnet 4</a>,{" "}
+          I{"'"}m a software engineer based out of Austin TX. I{"'"}m currently
+          Community Engineer at{" "}
+          <a href="https://planetscale.com/" className="hover:underline">
+            PlanetScale
+          </a>{" "}
+          spreading the word about the fastest and most reliable databases
+          available in the cloud built by the brightest people around.
+        </p>
+        <h3>Past Work</h3>
+        <p>
+          From 2024 to early 2026 I was CTO at{" "}
+          <a href="https://manifold.inc">Manifold</a>, building a decentralized
+          permission-less compute marketplace. Some of the projects I also
+          worked on while there include{" "}
+          <a href="https://github.com/manifold-inc/targon">Subnet 4</a>,{" "}
           <a href="https://targon.com/">Targon</a>,{" "}
           <a href="https://tao.xyz/">Tao xyz</a>,{" "}
           <a href="https://sybil.com/">Sybil</a>, and designing{" "}
           <a href="https://epistula.sybil.com/">the Epistula Protocol</a>.
         </p>
-        <h3>Past Work</h3>
         <p>
           From mid 2022 to early 2024 I was proudly the CTO at{" "}
           <a href="https://biblish.com">Biblish</a>, where we built the home of
@@ -48,13 +54,13 @@ export default function Page() {
           me talk at your university or other event, shoot me an{" "}
           <a href="mailto:hey@imjosh.dev">email</a>!
         </p>
-        <p>
-          I also love helping out with open source projects where I can. You can
-          find some of my contributions in{" "}
-          <a href="https://github.com/pingdotgg/uploadthing">uploadthing</a>
-          {" and "}
-          <a href="https://github.com/mdx-editor/editor">MDX Editor</a>.
-        </p>
+        <h3>People I Love</h3>
+        Checkout some of my favorite people I{"'"}ve met over the past
+        few years on my journey:
+        <ul>
+          <li><a href="https://darwich.dev">Ahmed Darwich</a>{", "}My right hand man</li>
+          <li><a href="https://dhruvbindra.com/">Dhruv Bindra</a>{", "}One of the most talented Kubernetes people I{"'"}ve ever met</li>
+        </ul>
       </div>
     </div>
   );
