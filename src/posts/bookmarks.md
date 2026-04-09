@@ -13,6 +13,7 @@ instead of books.
 ## Hardware
 
 - https://bitsnpieces.dev/posts/a-synth-for-my-daughter/
+- https://werwolv.net/posts/usb_for_sw_devs/
 
 ## Networking
 
