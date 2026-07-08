@@ -6,9 +6,10 @@ import { DM_Sans } from "next/font/google";
 import ToggleTheme from "./ToggleTheme";
 import Image from "next/image";
 import Link from "next/link";
-import { GithubIcon, LinkedinIcon, MailIcon } from "lucide-react";
+import { MailIcon } from "lucide-react";
 import { Toaster } from "sonner";
 import { ThemeProvider } from "next-themes";
+import { SiGithub, SiX } from "@icons-pack/react-simple-icons";
 
 export const metadata = {
   title: "Im josh",
@@ -31,8 +32,8 @@ export default function RootLayout({
       suppressHydrationWarning
       className={clsx("dark h-full", sans.variable)}
     >
-      <script defer src="https://assets.onedollarstats.com/stonks.js"></script>
       <body className="mx-auto h-full max-w-7xl bg-neutral-50 px-4 pt-10 text-gray-900 transition-colors dark:bg-neutral-800 sm:px-6 lg:px-8">
+        <script defer src="https://assets.onedollarstats.com/stonks.js" />
         <ThemeProvider attribute="class">
           <div className="flex min-h-full flex-col pb-20">
             <div className="flex items-center justify-between pb-8">
@@ -76,13 +77,13 @@ export default function RootLayout({
                     className="transition-all hover:text-orange-600 dark:hover:text-orange-500"
                     href="https://github.com/0ximjosh"
                   >
-                    <GithubIcon />
+                    <SiGithub />
                   </a>
                   <a
                     className="transition-all hover:text-orange-600 dark:hover:text-orange-500"
-                    href="https://www.linkedin.com/in/joshgbrown/"
+                    href="https://x.com/imjosh"
                   >
-                    <LinkedinIcon />
+                    <SiX />
                   </a>
                 </div>
               </div>
