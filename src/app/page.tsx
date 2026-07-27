@@ -20,13 +20,12 @@ export default function Page() {
         <p>
           From 2024 to early 2026 I was CTO at{" "}
           <a href="https://manifold.inc">Manifold</a>, building a decentralized
-          permission-less compute marketplace. Some of the projects I also
-          worked on while there include{" "}
-          <a href="https://github.com/manifold-inc/targon">Subnet 4</a>,{" "}
-          <a href="https://targon.com/">Targon</a>,{" "}
-          <a href="https://tao.xyz/">Tao xyz</a>,{" "}
-          <a href="https://sybil.com/">Sybil</a>, and designing{" "}
-          <a href="https://epistula.sybil.com/">the Epistula Protocol</a>.
+          permission-less compute marketplace. We wrote a joint paper with Intel
+          on{" "}
+          <a href="https://community.intel.com/t5/Blogs/Products-and-Solutions/Security/Decentralized-Compute-on-Untrusted-Hardware-Using-Intel-TDX-and/post/1741192">
+            decentralized compute on untrusted hardware
+          </a>
+          .
         </p>
         <p>
           From mid 2022 to early 2024 I was proudly the CTO at{" "}
@@ -42,24 +41,23 @@ export default function Page() {
           and more.
         </p>
         <p>
-          Before Brunus Labs I was a Web and Application Developer at Cleveland
-          Clinic. I created multiple web applications and moved all of our teams
-          projects from TFVC to git (that wasn{"'"}t fun) amongst other things.
-        </p>
-        <h3>What I{"'"}m about</h3>
-        <p>
-          I love motivating people to build cool stuff, and encourage people to
-          never stop learning. I like giving talks to classes at universities,
-          and being involved in the tech community. If your interested in having
-          me talk at your university or other event, shoot me an{" "}
-          <a href="mailto:hey@imjosh.dev">email</a>!
+          Before Brunus Labs I was a Web and Application Developer at{" "}
+          <a href="https://my.clevelandclinic.org/">Cleveland Clinic</a>. I
+          created multiple web applications and moved all of our teams projects
+          from TFVC to git (that wasn{"'"}t fun) amongst other things.
         </p>
         <h3>People I Love</h3>
-        Checkout some of my favorite people I{"'"}ve met over the past
-        few years on my journey:
+        Checkout some of my favorite people I{"'"}ve met over the past few years
+        on my journey:
         <ul>
-          <li><a href="https://darwich.dev">Ahmed Darwich</a>{", "}My right hand man</li>
-          <li><a href="https://dhruvbindra.com/">Dhruv Bindra</a>{", "}One of the most talented Kubernetes people I{"'"}ve ever met</li>
+          <li>
+            <a href="https://darwich.dev">Ahmed Darwich</a>
+            {", "}My right hand man
+          </li>
+          <li>
+            <a href="https://dhruvbindra.com/">Dhruv Bindra</a>
+            {", "}One of the most talented Kubernetes people I{"'"}ve ever met
+          </li>
         </ul>
       </div>
     </div>
