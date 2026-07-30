@@ -20,9 +20,9 @@ export default function Page() {
         <p>
           From 2024 to early 2026 I was CTO at{" "}
           <a href="https://manifold.inc">Manifold</a>, building a decentralized
-          permission-less compute marketplace. We wrote a joint paper with Intel
+          permission-less compute marketplace. We wrote a joint white paper with Intel
           on{" "}
-          <a href="https://community.intel.com/t5/Blogs/Products-and-Solutions/Security/Decentralized-Compute-on-Untrusted-Hardware-Using-Intel-TDX-and/post/1741192">
+          <a href="https://arxiv.org/abs/2607.21865">
             decentralized compute on untrusted hardware
           </a>
           .
